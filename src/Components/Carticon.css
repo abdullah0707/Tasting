@@ -1,0 +1,17 @@
+#cart-icon i 
+{
+    font-size: 26px !important;
+    color: rgba(241, 241, 241, 0.9) !important;
+}
+
+#cart-icon span
+{
+    position: relative;
+    bottom: 13px;
+    right: 4px;
+    font-size: 11px;
+}
+#cart-icon
+{
+    text-align: end;
+}

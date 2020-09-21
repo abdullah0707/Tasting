@@ -1,0 +1,23 @@
+{
+  "name": "tamblet-shop",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@cloudfour/simple-svg-placeholder": "^1.0.2",
+    "lodash.throttle": "^4.1.1",
+    "mdbreact": "^4.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-scripts": "0.9.5",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

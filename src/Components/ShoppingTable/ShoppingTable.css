@@ -1,0 +1,10 @@
+.shopping-cart
+{
+    max-width: 81% !important;
+}
+.table td, .table th {
+    padding: 0; 
+    vertical-align: baseline;
+   border-top: 1px solid #dee2e6;
+   width: 170px;
+}

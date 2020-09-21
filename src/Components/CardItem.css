@@ -1,0 +1,19 @@
+.carditem
+{
+    width: 75%;
+}
+.card-product
+{
+    width: 100%;
+}
+
+.z-depth-0
+{
+    width: 155px;
+}
+.number-input
+{
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    width: 150px !important;
+}

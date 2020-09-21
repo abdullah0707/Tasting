@@ -1,0 +1,30 @@
+.carousel-multi-item .carousel-item {
+    display: inline-flex !important;
+}
+.btn-floating .fa-chevron-left
+{
+    float: left;
+    position: relative;
+    top: 148px;
+    z-index: 2;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.63);
+    padding: 11px;
+}
+
+.btn-floating .fa-chevron-right
+{
+    float: right;
+    position: relative;
+    top: 148px;
+    z-index: 2;
+    color: #fff;
+    padding: 11px;
+    background-color: rgba(0, 0, 0, 0.63);
+    background-size: auto;
+}
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: rgba(255, 255, 255, 0) !important;
+    border-top: 1px solid rgba(0,0,0,.125);
+}

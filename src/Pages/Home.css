@@ -1,0 +1,61 @@
+.carousel .carousel-control-prev-icon, .carousel .carousel-control-next-icon 
+{
+    width: 55px;
+    height: 54px;
+    background-color: #000;
+    background-size: auto;
+}
+.carousel-indicators li {
+    box-sizing: content-box;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 20px;
+    height: 13px;
+    text-indent: inherit;
+    cursor: pointer;
+    background-color: rgba(17, 17, 17, 0.795);
+    background-clip: padding-box;
+    opacity: .5;
+    display: contents;
+}
+.carousel-indicators  {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: block;
+    -ms-flex-pack: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+.carousel-indicators li img{
+    padding: 6px;
+    width: 75px;
+    height: 76px;
+}
+
+.carousel-thumbnails
+{
+    width: 345px;
+}
+.fa-podcast.jsx-20458038 {
+    font-size: 18px;
+}
+.text-muted
+{
+    font-size: 13px;
+}
+.text-ed
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+.Checkout
+{
+    border:1px solid rgba(0, 0, 0, 0.363);
+    height: 178px;
+}

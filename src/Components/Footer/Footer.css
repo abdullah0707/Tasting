@@ -1,0 +1,46 @@
+.footer
+{
+    background-color: #4C4E52;
+}
+.deep-purple
+{
+    width: 60px;
+}
+.footer .text, .text-p, .footer-copyright
+{
+    color: #d3d3d3;
+}
+.footer i
+{
+    color: #fcfbff;
+    font-size: 18px;
+}
+.footer .fb-ic .fa-facebook-f:hover
+{
+    color: #0400e4;
+    font-size: 18px;
+}
+.footer .li-ic .fa-twitter:hover
+{
+    color: #4441f7;
+    font-size: 18px;
+}
+.footer .lin-ic .fa-linkedin:hover
+{
+    color: #02008b;
+    font-size: 18px;
+}
+.footer .ins-ic .fa-instagram:hover
+{
+    color: #460166;
+    font-size: 18px;
+}
+.footer .go-ic .fa-google-plus:hover
+{
+    color: #5c0606;
+    font-size: 18px;
+}
+.deep{
+    background-color: #918703 !important;
+    width: 60px;
+}
