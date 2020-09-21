@@ -141,8 +141,8 @@ function Product(props){
 
   const mapDispatchToProps = (dispatch) => {
       return {
-          increment: () => dispatch(increment(quantity)),
-          decrement: () => dispatch(decrement(quantity)),
+          increment: () => dispatch(increment()),
+          decrement: () => dispatch(decrement()),
           addToCart: (productinfo, quantity) => dispatch(addToCart(productinfo, quantity)), 
       };
   }
